@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "labels": [
+    "dependencies"
+  ],
+  "prHourlyLimit": 1,
+  "schedule": "before 10am every weekday",
+  "timezone": "Asia/Tokyo"
+}
